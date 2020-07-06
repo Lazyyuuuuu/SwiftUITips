@@ -6,3 +6,6 @@
 [SwiftUITips000](./SwiftUITips000/README.md)
 
 [SwiftUITips001](./SwiftUITips000/README.md)
+
+[SwiftUITips002](./SwiftUITips000/README.md)
+
